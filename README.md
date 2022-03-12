@@ -4,9 +4,9 @@ A docker image for building the [monero-java](https://github.com/monero-ecosyste
 
 ## Building
 ```
-$ git clone <this>
+$ git clone https://github.com/drew6017/monero-java-docker
 $ cd monero-java-docker
-$ docker build -t drew6017/monero-java-docker
+$ docker build -t drew6017/monero-java-docker .
 ```
 Do somethin else, this is gonna take a while.
 
